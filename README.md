@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working for EPAM Ukraine. 
 - 🌱 I’m Java Developer. 
-- 📫 How to reach me: [mail.me](pavel.reshetilo@gmail.com)
+- 📫 How to reach me: [mail.me](pavlo_reshetylo@epam.com)
 - 💬 Ask me about everything in [Telegram](https://t.me/dp_ua)
 
 #### Some of my GitHub Stats:
